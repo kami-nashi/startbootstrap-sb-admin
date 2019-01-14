@@ -3,7 +3,7 @@
 //  $('#dataTable').DataTable();
 //});
 
-$.getJSON("http://kami-nashi.com/skatetrax.core/sessions_json.php", function(jsonFromFile) {
+$.getJSON("http://journal.kami-nashi.com/skatetrax.core/sessions_json.php", function(jsonFromFile) {
   $('#dataTable').bootstrapTable({
     data: jsonFromFile,
     "pagingType": "full_numbers"
