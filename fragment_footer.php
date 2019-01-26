@@ -55,6 +55,7 @@
 
 <!-- Demo scripts for this page-->
 <script src="js/datatables-maint_full.js"></script>
+<script src="js/demo/chart-pie-demo.js"></script>
 
 <!--<script src="js/datatables-brief.js"></script>
 <script src="js/chart-area-hours.js"></script>-->
